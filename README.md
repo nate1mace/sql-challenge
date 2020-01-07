@@ -1,5 +1,5 @@
 # sql-challenge
-
+```
 create table Employee (
   emp_no Serial primary key,
   birth_date date,
@@ -102,4 +102,4 @@ from employee
 group by last_name
 order by "Num_employees_with_last_name" desc;
 
-
+```
