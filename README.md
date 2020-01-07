@@ -1,4 +1,6 @@
 # sql-challenge
+![Alt text](/ERD_Chart.PNG "Optional Title")
+
 ```
 create table Employee (
   emp_no Serial primary key,
